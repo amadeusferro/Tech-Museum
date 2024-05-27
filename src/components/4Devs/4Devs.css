@@ -1,0 +1,23 @@
+/*
+Developed by Amadeus Ferrp (https://www.linkedin.com/in/amadeusferro) / (https://github.com/amadeusferro) / (https://www.instagram.com/amadeus.ferro/) / (contact.amadeusferro@gmail.com);
+Translated by Amadeus Ferro (https://www.linkedin.com/in/amadeusferro) / (https://github.com/amadeusferro) / (https://www.instagram.com/amadeus.ferro/) / (contact.amadeusferro@gmail.com);
+*/
+
+.container404 {
+  text-align: center;
+  margin: 0 auto;
+}
+
+i {
+  font-size: 4em;
+}
+
+.h2404 {
+  font-size: 1.7em;
+  font-weight: bold;
+}
+
+.img404 {
+  max-width: 250px;
+  height: auto;
+}

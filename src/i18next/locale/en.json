@@ -1,0 +1,723 @@
+{
+  "translation": {
+    "navbar": {
+      "museum": "Tech Museum",
+      "home": "Home",
+      "about": "About",
+      "portfolio": "Portfolio",
+      "members": "Members",
+      "contact": "Contact",
+      "blog": "Blog",
+      "fourdevs": "4Devs",
+      "language": {
+        "label": "Language",
+        "portuguese": "Portuguese",
+        "english": "English",
+        "japanese": "Japanese"
+      },
+      "donate": "Donate"
+    },
+
+    "footer": {
+      "copyright": "Copyright ",
+      "rights": ". All Rights Reserved",
+      "developed_by": "Developed by",
+      "members": {
+        "amadeus_ferro": "Amadeus Ferro",
+        "joao_victor_guidi": "João Victor Guidi",
+        "matheus_ribeiro": "Matheus Ribeiro",
+        "thalles_eduardo": "Thalles Eduardo"
+      },
+      "translated_by": "Translated by"
+    },
+
+    "hero": {
+      "headline": "Discover the Past, Inspire the Future of Technology!",
+      "paragraph": "Explore the fascinating technology museum with us and relive unforgettable memories!",
+      "button": "Discover"
+    },
+
+    "about": {
+      "description": "Who We Are",
+      "headline": "We Are a Passionate Community of Computer Science Students and Teachers at IF Goiano - Morrinhos",
+      "paragraph": "Our focus goes beyond the classrooms; we are immersed in innovative projects, including the creation of a technological museum. Our mission is to gather, catalog, research, and disseminate information about old products related to computing. Join us as we explore the fascinating history of technology and preserve the evolution of devices that shaped the digital world we know today.",
+      "button": "Read More"
+    },
+
+    "values": {
+      "description": "Our Objectives",
+      "headline": "Our Objectives Through the Technological Museum",
+      "values": [
+        {
+          "header": "Preserving Historical Materials",
+          "paragraph": "At the Technological Museum, we are dedicated to preserving historical materials, safeguarding the traces of the digital past so that future generations can learn from and be inspired by the evolution of technology."
+        },
+        {
+          "header": "Reflecting on the Past of Technology",
+          "paragraph": "Exploring the Technological Museum to reflect on and celebrate past innovations, bridging the gap between yesterday and tomorrow in pursuit of our future technological goals."
+        },
+        {
+          "header": "Encouraging the Study of Computing",
+          "paragraph": "By promoting excellence through the Technological Museum, we encourage the study of computing, inspiring curious minds to explore the fascinating paths of the digital era."
+        }
+      ]
+    },
+
+    "counts": {
+      "donors": "Donors",
+      "parts": "Parts",
+      "visitors": "Visitors",
+      "members": "Members"
+    },
+
+    "features": {
+      "description": "Works",
+      "headline": "Some of Our Museum Members' Works",
+      "features": [
+        "Cataloging Pieces",
+        "Promoting Technology",
+        "Giving Lectures",
+        "Restoring Pieces",
+        "Displaying and Maintaining Pieces",
+        "Collecting Pieces"
+      ]
+    },
+
+    "portfolio": {
+      "description": "View Full Portfolio",
+      "headline": "Explore Our Recent Pieces",
+      "portfolio_fiters": {
+        "all": "All",
+        "consoles": "Consoles",
+        "pc": "PCs",
+        "hardware": "Hardwares"
+      },
+      "parts": [
+        {
+          "name": "Nintendo's Classic Mini",
+          "filter": "Console"
+        },
+        {
+          "name": "Macintosh",
+          "filter": "PC"
+        },
+        {
+          "name": "Motherboard",
+          "filter": "Hardware"
+        },
+        {
+          "name": "Old PC 1",
+          "filter": "PC"
+        },
+        {
+          "name": "Nintendo NES Classic Edition",
+          "filter": "Console"
+        },
+        {
+          "name": "HardDisk",
+          "filter": "Hardware"
+        },
+        {
+          "name": "RAM Memory",
+          "filter": "Hardware"
+        },
+        {
+          "name": "Old PC 2",
+          "filter": "PC"
+        },
+        {
+          "name": "Old Gameboy",
+          "filter": "Console"
+        }
+      ],
+      "more_details": "More Details",
+      "3d_view": "3D View"
+    },
+
+    "testimonials": {
+      "description": "See All Customer Reviews",
+      "headline": "What People Say About Us",
+      "visitors": [
+        {
+          "message": "Exploring the Technological Museum was an incredible experience! I relived technological memories and realized how evolution has shaped our present. A fascinating journey through the digital past!",
+          "name": "Michael D.",
+          "occupation": "Physician"
+        },
+        {
+          "message": "The Technological Museum provided a deep insight into technological progress. Each exhibit told a unique story, making me appreciate the complexity and innovation behind the devices we use daily.",
+          "name": "Sara M.",
+          "occupation": "Student"
+        },
+        {
+          "message": "Preserving the history of technology is crucial. The Technological Museum is a treasure, connecting me with the origins of computing and inspiring me to contribute to the future of innovation.",
+          "name": "Mario J.",
+          "occupation": "Assistant Mason"
+        }
+      ]
+    },
+
+    "team": {
+      "description": "See All Team",
+      "headline": "Our Developer Team",
+      "members": {
+        "amadeus_ferro": {
+          "name": "Amadeus Ferro",
+          "position": "Computer Scientist | Polyglot"
+        },
+        "jesmmer_alves": {
+          "name": "Jesmmer Alves",
+          "position": "Dr. Computer Scientist"
+        },
+        "leila_roling": {
+          "name": "Leila Roling",
+          "position": "Dr. Computer Scientist"
+        },
+        "joao_lima": {
+          "name": "João Lima",
+          "position": "Computer Scientist"
+        },
+        "bruno_rodrigues": {
+          "name": "Bruno Rodrigues",
+          "position": "Computer Scientist"
+        },
+        "carlos_eduardo": {
+          "name": "Carlos Eduardo",
+          "position": "Computer Scientist"
+        },
+        "eduardo_de_melo": {
+          "name": "Eduardo de Melo",
+          "position": "Computer Scientist"
+        },
+        "eric_vinicius": {
+          "name": "Éric Vinícius",
+          "position": "Computer Scientist"
+        },
+        "gilmar_custodio": {
+          "name": "Gilmar Custódio",
+          "position": "Computer Scientist"
+        },
+        "guilherme_correia": {
+          "name": "Guilherme Correia",
+          "position": "Computer Scientist"
+        },
+        "ianny_correia": {
+          "name": "Ianny Correia",
+          "position": "Computer Scientist"
+        },
+        "bruno_fagner": {
+          "name": "Bruno Fagner",
+          "position": "Computer Scientist"
+        },
+        "larah_beatriz": {
+          "name": "Larah Beatriz",
+          "position": "Computer Scientist"
+        },
+        "leonardo_faustino": {
+          "name": "Leonardo Faustino",
+          "position": "Computer Scientist"
+        },
+        "lyandra_fernandes": {
+          "name": "Lyandra Fernandes",
+          "position": "Computer Scientist"
+        },
+        "maria_clara": {
+          "name": "Maria Clara",
+          "position": "Computer Scientist"
+        },
+        "matheus_ribeiro": {
+          "name": "Matheus Ribeiro",
+          "position": "Computer Scientist"
+        },
+        "thalles_eduardo": {
+          "name": "Thalles Eduardo",
+          "position": "Computer Scientist"
+        },
+        "emily_carla": {
+          "name": "Emily Carla",
+          "position": "Computer Scientist"
+        },
+        "liliany_nunes": {
+          "name": "Liliany Nunes",
+          "position": "Computer Scientist"
+        },
+        "marcella_rodrigues": {
+          "name": "Marcella Rodrigues",
+          "position": "Computer Scientist"
+        },
+        "leonardo_felipe": {
+          "name": "Leonardo Felipe",
+          "position": "Computer Scientist"
+        }
+      }
+    },
+
+    "recent": {
+      "description": "Read Blog",
+      "headline": "Recent Posts from Our Blog",
+      "posts": [
+        {
+          "date": "Tuesday, September 15",
+          "headline": "Efficiency Analysis of Post-Pandemic Co-Working Arrangements"
+        },
+        {
+          "date": "Friday, August 28",
+          "headline": "From Assistance to Domination: The Journey of AI in the Modern World"
+        },
+        {
+          "date": "Monday, May 29",
+          "headline": "Soil Analysis for Planting Using Drones and Artificial Intelligence"
+        }
+      ],
+      "read_more": "Read More"
+    },
+
+    "contact": {
+      "description": "Contact Us",
+      "headline": "Make a Donation",
+      "address": [
+        "Address",
+        "153BR Highway, Km 633, Rural Area,",
+        "Computing Center - Olympus,",
+        "Morrinhos - GO | ZIP Code: 75650-000"
+      ],
+      "phone": "Phone",
+      "email": "Email",
+      "timetable": {
+        "title": "Hours",
+        "days": "Monday - Friday",
+        "hours": "7:30 AM - 11:00 PM"
+      },
+      "loading": "Loading",
+      "message": "Your message has been sent. Thank you!",
+      "button": "Send Message",
+      "form": ["Name", "E-mail", "Subject", "Message"]
+    },
+
+    "testimonials_inner_page": {
+      "page_name": "Testimonials",
+      "title": "Testimonials from Our Visitors!"
+    },
+
+    "team_inner_page": {
+      "page_name": "Team",
+      "title": "All Museum Members"
+    },
+
+    "error_inner_page": {
+      "page_name": "Error",
+      "title": "An Error Occurred!",
+      "headline": "Page Not Found or Coming Soon",
+      "paragraph": "Oops! It looks like you encountered a 404 error on our site, which means the page you are looking for is either not here or still under construction - coming soon! We apologize for the inconvenience. Return to the homepage by clicking on our logo or using the menu. If the issues persist, please contact our administrator for assistance. Thank you for your patience!"
+    },
+
+    "login_page": {
+      "member_title": "Member Login",
+      "user_title": "User Login",
+      "email": "E-mail",
+      "password": "Password",
+      "button": "Login",
+      "forgot": "Forgot Password?",
+      "create_new": "Create New Account"
+    },
+
+    "gallery_inner_page": {
+      "page_name": "Portfolio",
+      "title": "All Our Pieces"
+    },
+
+    "gallery": {
+      "portfolio_fiters": {
+        "all": "All",
+        "consoles": "Consoles",
+        "pc": "PCs",
+        "hardware": "Hardwares"
+      },
+      "parts": [
+        {
+          "name": "Nintendo's Classic Mini",
+          "filter": "Console",
+          "url": "www.example.com",
+          "info": "Autem ipsum nam porro corporis rerum. Quis eos dolorem eos itaque inventore commodi labore quia quia. Exercitationem repudiandae officiis neque suscipit non officia eaque itaque enim. Voluptatem officia accusantium nesciunt est omnis tempora consectetur dignissimos. Sequi nulla at esse enim cum deserunt eius.",
+          "manufacturer": "yyy Company",
+          "manufacturing_date": "xx March 19xx"
+        },
+        {
+          "name": "Macintosh",
+          "filter": "PC",
+          "url": "www.example.com",
+          "info": "Autem ipsum nam porro corporis rerum. Quis eos dolorem eos itaque inventore commodi labore quia quia. Exercitationem repudiandae officiis neque suscipit non officia eaque itaque enim. Voluptatem officia accusantium nesciunt est omnis tempora consectetur dignissimos. Sequi nulla at esse enim cum deserunt eius.",
+          "manufacturer": "yyy Company",
+          "manufacturing_date": "xx March 19xx"
+        },
+        {
+          "name": "Motherboard 1",
+          "filter": "Hardware",
+          "url": "www.example.com",
+          "info": "Autem ipsum nam porro corporis rerum. Quis eos dolorem eos itaque inventore commodi labore quia quia. Exercitationem repudiandae officiis neque suscipit non officia eaque itaque enim. Voluptatem officia accusantium nesciunt est omnis tempora consectetur dignissimos. Sequi nulla at esse enim cum deserunt eius.",
+          "manufacturer": "yyy Company",
+          "manufacturing_date": "xx March 19xx"
+        },
+        {
+          "name": "Old PC 1",
+          "filter": "PC",
+          "url": "www.example.com",
+          "info": "Autem ipsum nam porro corporis rerum. Quis eos dolorem eos itaque inventore commodi labore quia quia. Exercitationem repudiandae officiis neque suscipit non officia eaque itaque enim. Voluptatem officia accusantium nesciunt est omnis tempora consectetur dignissimos. Sequi nulla at esse enim cum deserunt eius.",
+          "manufacturer": "yyy Company",
+          "manufacturing_date": "xx March 19xx"
+        },
+        {
+          "name": "Nintendo NES Classic Edition",
+          "filter": "Console",
+          "url": "www.example.com",
+          "info": "Autem ipsum nam porro corporis rerum. Quis eos dolorem eos itaque inventore commodi labore quia quia. Exercitationem repudiandae officiis neque suscipit non officia eaque itaque enim. Voluptatem officia accusantium nesciunt est omnis tempora consectetur dignissimos. Sequi nulla at esse enim cum deserunt eius.",
+          "manufacturer": "yyy Company",
+          "manufacturing_date": "xx March 19xx"
+        },
+        {
+          "name": "HardDisk",
+          "filter": "Hardware",
+          "url": "www.example.com",
+          "info": "Autem ipsum nam porro corporis rerum. Quis eos dolorem eos itaque inventore commodi labore quia quia. Exercitationem repudiandae officiis neque suscipit non officia eaque itaque enim. Voluptatem officia accusantium nesciunt est omnis tempora consectetur dignissimos. Sequi nulla at esse enim cum deserunt eius.",
+          "manufacturer": "yyy Company",
+          "manufacturing_date": "xx March 19xx"
+        },
+        {
+          "name": "RAM Memory",
+          "filter": "Hardware",
+          "url": "www.example.com",
+          "info": "Autem ipsum nam porro corporis rerum. Quis eos dolorem eos itaque inventore commodi labore quia quia. Exercitationem repudiandae officiis neque suscipit non officia eaque itaque enim. Voluptatem officia accusantium nesciunt est omnis tempora consectetur dignissimos. Sequi nulla at esse enim cum deserunt eius.",
+          "manufacturer": "yyy Company",
+          "manufacturing_date": "xx March 19xx"
+        },
+        {
+          "name": "Old PC 2",
+          "filter": "PC",
+          "url": "www.example.com",
+          "info": "Autem ipsum nam porro corporis rerum. Quis eos dolorem eos itaque inventore commodi labore quia quia. Exercitationem repudiandae officiis neque suscipit non officia eaque itaque enim. Voluptatem officia accusantium nesciunt est omnis tempora consectetur dignissimos. Sequi nulla at esse enim cum deserunt eius.",
+          "manufacturer": "yyy Company",
+          "manufacturing_date": "xx March 19xx"
+        },
+        {
+          "name": "Gameboy",
+          "filter": "Console",
+          "url": "www.example.com",
+          "info": "Autem ipsum nam porro corporis rerum. Quis eos dolorem eos itaque inventore commodi labore quia quia. Exercitationem repudiandae officiis neque suscipit non officia eaque itaque enim. Voluptatem officia accusantium nesciunt est omnis tempora consectetur dignissimos. Sequi nulla at esse enim cum deserunt eius.",
+          "manufacturer": "yyy Company",
+          "manufacturing_date": "xx March 19xx"
+        }
+      ],
+      "more_details": "More Details",
+      "3d_view": "3D View"
+    },
+
+    "gallery_details": {
+      "page_name": "Portfolio",
+      "name": "Nintendo NES Classic Version",
+      "product_information": "Product Information",
+      "details": "More Part Details",
+      "category": "Category:",
+      "manufacturer": "Manufacturer:",
+      "manufacturing_date": "Manufacturing Date:",
+      "url": "Product URL:"
+    },
+
+    "4devs": {
+      "page_name": "4Devs",
+      "title": "Exciting New Features Coming Soon!",
+      "headline": "Exciting Features on the Way!",
+      "paragraph": "We're thrilled to announce that we'll soon have new information about the development of features specifically tailored for developers on our website. We're working hard behind the scenes to bring innovative resources aimed at making software development easier and more efficient. Stay tuned for exciting updates that will add even more value to your work, providing a more streamlined and productive development experience. Join us on this journey and explore what's to come to propel your projects and achieve new heights of technical excellence."
+    },
+
+    "blog": {
+      "page_name": "Blog",
+      "title": "Check Out Our Articles!",
+      "posts": [
+        {
+          "title": "Efficiency Analysis of Post-Pandemic Co-Working Arrangements",
+          "author": "José Carlos",
+          "status": "Itaque quidem optio quia voluptatibus dolorem dolor. Modi eum sed possimus accusantium. Quas repellat voluptatem officia numquam sint aspernatur voluptas. Esse et accusantium ut unde voluptas.",
+
+          "date": "Tuesday, September 15, 2020",
+          "description": "Aut iste neque ut illum qui perspiciatis similique recusandae non. Fugit autem dolorem labore omnis et. Eum temporibus fugiat voluptate enim tenetur sunt omnis. Doloremque est saepe laborum aut. Ipsa cupiditate ex harum at recusandae nesciunt. Ut dolores velit.",
+          "paragraph_1": "Similique neque nam consequuntur ad non maxime aliquam quas. Quibusdam animi praesentium. Aliquam et laboriosam eius aut nostrum quidem aliquid dicta. Et eveniet enim. Qui velit est ea dolorem doloremque deleniti aperiam unde soluta. Est cum et quod quos aut ut et sit sunt. Voluptate porro consequatur assumenda perferendis dolore.",
+          "paragraph_2": "Sit repellat hic cupiditate hic ut nemo. Quis nihil sunt non reiciendis. Sequi in accusamus harum vel aspernatur. Excepturi numquam nihil cumque odio. Et voluptate cupiditate.",
+          "quote": "Et vero doloremque tempore voluptatem ratione vel aut. Deleniti sunt animi aut. Aut eos aliquam doloribus minus autem quos.",
+          "paragraph_3": "Sed quo laboriosam qui architecto. Occaecati repellendus omnis dicta inventore tempore provident voluptas mollitia aliquid. Id repellendus quia. Asperiores nihil magni dicta est suscipit perspiciatis. Voluptate ex rerum assumenda dolores nihil quaerat. Dolor porro tempora et quibusdam voluptas. Beatae aut at ad qui tempore corrupti velit quisquam rerum. Omnis dolorum exercitationem harum qui qui blanditiis neque. Iusto autem itaque. Repudiandae hic quae aspernatur ea neque qui. Architecto voluptatem magni. Vel magnam quod et tempora deleniti error rerum nihil tempora.",
+          "subtitle_1": "Et quae iure vel ut odit alias.",
+          "paragraph_4": "Officiis animi maxime nulla quo et harum eum quis a. Sit hic in qui quos fugit ut rerum atque. Optio provident dolores atque voluptatem rem excepturi molestiae qui. Voluptatem laborum omnis ullam quibusdam perspiciatis nulla nostrum. Voluptatum est libero eum nesciunt aliquid qui. Quia et suscipit non sequi. Maxime sed odit. Beatae nesciunt nesciunt accusamus quia aut ratione aspernatur dolor. Sint harum eveniet dicta exercitationem minima. Exercitationem omnis asperiores natus aperiam dolor consequatur id ex sed. Quibusdam rerum dolores sint consequatur quidem ea. Beatae minima sunt libero soluta sapiente in rem assumenda. Et qui odit voluptatem. Cum quibusdam voluptatem voluptatem accusamus mollitia aut atque aut.",
+          "subtitle_2": "Ut repellat blanditiis est dolore sunt dolorum quae.",
+          "paragraph_5": "Rerum ea est assumenda pariatur quasi et quam. Facilis nam porro amet nostrum. In assumenda quia quae a id praesentium. Quos deleniti libero sed occaecati aut porro autem. Consectetur sed excepturi sint non placeat quia repellat incidunt labore. Autem facilis hic dolorum dolores vel. Consectetur quasi id et optio praesentium aut asperiores eaque aut. Explicabo omnis quibusdam esse. Ex libero illum iusto totam et ut aut blanditiis. Veritatis numquam ut illum ut a quam vitae.",
+          "paragraph_6": "Alias quia non aliquid. Eos et ea velit. Voluptatem maxime enim omnis ipsa voluptas incidunt. Nulla sit eaque mollitia nisi asperiores est veniam.",
+          "tags": ["Mobile", "Design", "Tips", "Marketing"],
+          "all_comments": [
+            {
+              "user": "Ana Carolina",
+              "date": "January 1, 2020",
+              "comment": "Et rerum totam nisi. Molestiae vel quam dolorum vel voluptatem et et. Est ad aut sapiente quis molestiae est qui cum soluta. Vero aut rerum vel. Rerum quos laboriosam placeat ex qui. Sint qui facilis et.",
+              "reply": ""
+            },
+            {
+              "user": "João Neto",
+              "date": "January 1, 2020",
+              "comment": "Ipsam tempora sequi voluptatem quis sapiente non. Autem itaque eveniet saepe. Officiis illo ut beatae.",
+              "reply": {
+                "user": "Maria Clara",
+                "date": "January 1, 2020",
+                "comment": "Enim ipsa eum fugiat fuga repellat. Commodi quo quo dicta. Est ullam aspernatur ut vitae quia mollitia id non. Qui ad quas nostrum rerum sed necessitatibus aut est. Eum officiis sed repellat maxime vero nisi natus. Amet nesciunt nesciunt qui illum omnis est et dolor recusandae. Recusandae sit ad aut impedit et. Ipsa labore dolor impedit et natus in porro aut. Magnam qui cum. Illo similique occaecati nihil modi eligendi. Pariatur distinctio labore omnis incidunt et illum. Expedita et dignissimos distinctio laborum minima fugiat. Libero corporis qui. Nam illo odio beatae enim ducimus. Harum reiciendis error dolorum non autem quisquam vero rerum neque.",
+                "reply": {
+                  "user": "Amanda Javier",
+                  "date": "January 1, 2020",
+                  "comment": "Et dignissimos impedit nulla et quo distinctio ex nemo. Omnis quia dolores cupiditate et. Ut unde qui eligendi sapiente omnis ullam. Placeat porro est commodi est officiis voluptas repellat quisquam possimus. Perferendis id consectetur necessitatibus.",
+                  "reply": ""
+                }
+              }
+            },
+            {
+              "user": "David Silva",
+              "date": "January 1, 2020",
+              "comment": "Distinctio nesciunt rerum reprehenderit sed. Iste omnis eius repellendus quia nihil ut accusantium tempore. Nesciunt expedita id dolor exercitationem aspernatur aut quam ut. Voluptatem est accusamus iste at. Non aut et et esse qui sit modi neque. Exercitationem et eos aspernatur. Ea est consequuntur officia beatae ea aut eos soluta. Non qui dolorum voluptatibus et optio veniam. Quam officia sit nostrum dolorem.",
+              "reply": ""
+            },
+            {
+              "user": "Alisson José",
+              "date": "January 1, 2020",
+              "comment": "Dolorem atque aut. Omnis doloremque blanditiis quia eum porro quis ut velit tempore. Cumque sed quia ut maxime. Est ad aut cum. Ut exercitationem non in fugiat.",
+              "reply": ""
+            }
+          ]
+        },
+        {
+          "title": "From Assistance to Domination: The Journey of AI in the Modern World",
+          "author": "Maria José",
+          "status": "Itaque quidem optio quia voluptatibus dolorem dolor. Modi eum sed possimus accusantium. Quas repellat voluptatem officia numquam sint aspernatur voluptas. Esse et accusantium ut unde voluptas.",
+
+          "date": "Friday, August 28, 2020",
+          "description": "Aut iste neque ut illum qui perspiciatis similique recusandae non. Fugit autem dolorem labore omnis et. Eum temporibus fugiat voluptate enim tenetur sunt omnis. Doloremque est saepe laborum aut. Ipsa cupiditate ex harum at recusandae nesciunt. Ut dolores velit.",
+          "paragraph_1": "Similique neque nam consequuntur ad non maxime aliquam quas. Quibusdam animi praesentium. Aliquam et laboriosam eius aut nostrum quidem aliquid dicta. Et eveniet enim. Qui velit est ea dolorem doloremque deleniti aperiam unde soluta. Est cum et quod quos aut ut et sit sunt. Voluptate porro consequatur assumenda perferendis dolore.",
+          "paragraph_2": "Sit repellat hic cupiditate hic ut nemo. Quis nihil sunt non reiciendis. Sequi in accusamus harum vel aspernatur. Excepturi numquam nihil cumque odio. Et voluptate cupiditate.",
+          "quote": "Et vero doloremque tempore voluptatem ratione vel aut. Deleniti sunt animi aut. Aut eos aliquam doloribus minus autem quos.",
+          "paragraph_3": "Sed quo laboriosam qui architecto. Occaecati repellendus omnis dicta inventore tempore provident voluptas mollitia aliquid. Id repellendus quia. Asperiores nihil magni dicta est suscipit perspiciatis. Voluptate ex rerum assumenda dolores nihil quaerat. Dolor porro tempora et quibusdam voluptas. Beatae aut at ad qui tempore corrupti velit quisquam rerum. Omnis dolorum exercitationem harum qui qui blanditiis neque. Iusto autem itaque. Repudiandae hic quae aspernatur ea neque qui. Architecto voluptatem magni. Vel magnam quod et tempora deleniti error rerum nihil tempora.",
+          "subtitle_1": "Et quae iure vel ut odit alias.",
+          "paragraph_4": "Officiis animi maxime nulla quo et harum eum quis a. Sit hic in qui quos fugit ut rerum atque. Optio provident dolores atque voluptatem rem excepturi molestiae qui. Voluptatem laborum omnis ullam quibusdam perspiciatis nulla nostrum. Voluptatum est libero eum nesciunt aliquid qui. Quia et suscipit non sequi. Maxime sed odit. Beatae nesciunt nesciunt accusamus quia aut ratione aspernatur dolor. Sint harum eveniet dicta exercitationem minima. Exercitationem omnis asperiores natus aperiam dolor consequatur id ex sed. Quibusdam rerum dolores sint consequatur quidem ea. Beatae minima sunt libero soluta sapiente in rem assumenda. Et qui odit voluptatem. Cum quibusdam voluptatem voluptatem accusamus mollitia aut atque aut.",
+          "subtitle_2": "Ut repellat blanditiis est dolore sunt dolorum quae.",
+          "paragraph_5": "Rerum ea est assumenda pariatur quasi et quam. Facilis nam porro amet nostrum. In assumenda quia quae a id praesentium. Quos deleniti libero sed occaecati aut porro autem. Consectetur sed excepturi sint non placeat quia repellat incidunt labore. Autem facilis hic dolorum dolores vel. Consectetur quasi id et optio praesentium aut asperiores eaque aut. Explicabo omnis quibusdam esse. Ex libero illum iusto totam et ut aut blanditiis. Veritatis numquam ut illum ut a quam vitae.",
+          "paragraph_6": "Alias quia non aliquid. Eos et ea velit. Voluptatem maxime enim omnis ipsa voluptas incidunt. Nulla sit eaque mollitia nisi asperiores est veniam.",
+          "tags": ["Mobile", "Design", "Tips", "Marketing"],
+          "all_comments": [
+            {
+              "user": "Ana Carolina",
+              "date": "January 1, 2020",
+              "comment": "Et rerum totam nisi. Molestiae vel quam dolorum vel voluptatem et et. Est ad aut sapiente quis molestiae est qui cum soluta. Vero aut rerum vel. Rerum quos laboriosam placeat ex qui. Sint qui facilis et.",
+              "reply": ""
+            },
+            {
+              "user": "João Neto",
+              "date": "January 1, 2020",
+              "comment": "Ipsam tempora sequi voluptatem quis sapiente non. Autem itaque eveniet saepe. Officiis illo ut beatae.",
+              "reply": {
+                "user": "Maria Clara",
+                "date": "January 1, 2020",
+                "comment": "Enim ipsa eum fugiat fuga repellat. Commodi quo quo dicta. Est ullam aspernatur ut vitae quia mollitia id non. Qui ad quas nostrum rerum sed necessitatibus aut est. Eum officiis sed repellat maxime vero nisi natus. Amet nesciunt nesciunt qui illum omnis est et dolor recusandae. Recusandae sit ad aut impedit et. Ipsa labore dolor impedit et natus in porro aut. Magnam qui cum. Illo similique occaecati nihil modi eligendi. Pariatur distinctio labore omnis incidunt et illum. Expedita et dignissimos distinctio laborum minima fugiat. Libero corporis qui. Nam illo odio beatae enim ducimus. Harum reiciendis error dolorum non autem quisquam vero rerum neque.",
+                "reply": {
+                  "user": "Amanda Javier",
+                  "date": "January 1, 2020",
+                  "comment": "Et dignissimos impedit nulla et quo distinctio ex nemo. Omnis quia dolores cupiditate et. Ut unde qui eligendi sapiente omnis ullam. Placeat porro est commodi est officiis voluptas repellat quisquam possimus. Perferendis id consectetur necessitatibus.",
+                  "reply": ""
+                }
+              }
+            },
+            {
+              "user": "David Silva",
+              "date": "January 1, 2020",
+              "comment": "Distinctio nesciunt rerum reprehenderit sed. Iste omnis eius repellendus quia nihil ut accusantium tempore. Nesciunt expedita id dolor exercitationem aspernatur aut quam ut. Voluptatem est accusamus iste at. Non aut et et esse qui sit modi neque. Exercitationem et eos aspernatur. Ea est consequuntur officia beatae ea aut eos soluta. Non qui dolorum voluptatibus et optio veniam. Quam officia sit nostrum dolorem.",
+              "reply": ""
+            },
+            {
+              "user": "Alisson José",
+              "date": "January 1, 2020",
+              "comment": "Dolorem atque aut. Omnis doloremque blanditiis quia eum porro quis ut velit tempore. Cumque sed quia ut maxime. Est ad aut cum. Ut exercitationem non in fugiat.",
+              "reply": ""
+            }
+          ]
+        },
+        {
+          "title": "Soil Analysis for Planting Using Drones and Artificial Intelligence",
+          "author": "Jammes Silva",
+          "status": "Itaque quidem optio quia voluptatibus dolorem dolor. Modi eum sed possimus accusantium. Quas repellat voluptatem officia numquam sint aspernatur voluptas. Esse et accusantium ut unde voluptas.",
+
+          "date": "Monday, May 29, 2020",
+          "description": "Aut iste neque ut illum qui perspiciatis similique recusandae non. Fugit autem dolorem labore omnis et. Eum temporibus fugiat voluptate enim tenetur sunt omnis. Doloremque est saepe laborum aut. Ipsa cupiditate ex harum at recusandae nesciunt. Ut dolores velit.",
+          "paragraph_1": "Similique neque nam consequuntur ad non maxime aliquam quas. Quibusdam animi praesentium. Aliquam et laboriosam eius aut nostrum quidem aliquid dicta. Et eveniet enim. Qui velit est ea dolorem doloremque deleniti aperiam unde soluta. Est cum et quod quos aut ut et sit sunt. Voluptate porro consequatur assumenda perferendis dolore.",
+          "paragraph_2": "Sit repellat hic cupiditate hic ut nemo. Quis nihil sunt non reiciendis. Sequi in accusamus harum vel aspernatur. Excepturi numquam nihil cumque odio. Et voluptate cupiditate.",
+          "quote": "Et vero doloremque tempore voluptatem ratione vel aut. Deleniti sunt animi aut. Aut eos aliquam doloribus minus autem quos.",
+          "paragraph_3": "Sed quo laboriosam qui architecto. Occaecati repellendus omnis dicta inventore tempore provident voluptas mollitia aliquid. Id repellendus quia. Asperiores nihil magni dicta est suscipit perspiciatis. Voluptate ex rerum assumenda dolores nihil quaerat. Dolor porro tempora et quibusdam voluptas. Beatae aut at ad qui tempore corrupti velit quisquam rerum. Omnis dolorum exercitationem harum qui qui blanditiis neque. Iusto autem itaque. Repudiandae hic quae aspernatur ea neque qui. Architecto voluptatem magni. Vel magnam quod et tempora deleniti error rerum nihil tempora.",
+          "subtitle_1": "Et quae iure vel ut odit alias.",
+          "paragraph_4": "Officiis animi maxime nulla quo et harum eum quis a. Sit hic in qui quos fugit ut rerum atque. Optio provident dolores atque voluptatem rem excepturi molestiae qui. Voluptatem laborum omnis ullam quibusdam perspiciatis nulla nostrum. Voluptatum est libero eum nesciunt aliquid qui. Quia et suscipit non sequi. Maxime sed odit. Beatae nesciunt nesciunt accusamus quia aut ratione aspernatur dolor. Sint harum eveniet dicta exercitationem minima. Exercitationem omnis asperiores natus aperiam dolor consequatur id ex sed. Quibusdam rerum dolores sint consequatur quidem ea. Beatae minima sunt libero soluta sapiente in rem assumenda. Et qui odit voluptatem. Cum quibusdam voluptatem voluptatem accusamus mollitia aut atque aut.",
+          "subtitle_2": "Ut repellat blanditiis est dolore sunt dolorum quae.",
+          "paragraph_5": "Rerum ea est assumenda pariatur quasi et quam. Facilis nam porro amet nostrum. In assumenda quia quae a id praesentium. Quos deleniti libero sed occaecati aut porro autem. Consectetur sed excepturi sint non placeat quia repellat incidunt labore. Autem facilis hic dolorum dolores vel. Consectetur quasi id et optio praesentium aut asperiores eaque aut. Explicabo omnis quibusdam esse. Ex libero illum iusto totam et ut aut blanditiis. Veritatis numquam ut illum ut a quam vitae.",
+          "paragraph_6": "Alias quia non aliquid. Eos et ea velit. Voluptatem maxime enim omnis ipsa voluptas incidunt. Nulla sit eaque mollitia nisi asperiores est veniam.",
+          "tags": ["Mobile", "Design", "Tips", "Marketing"],
+          "all_comments": [
+            {
+              "user": "Ana Carolina",
+              "date": "January 1, 2020",
+              "comment": "Et rerum totam nisi. Molestiae vel quam dolorum vel voluptatem et et. Est ad aut sapiente quis molestiae est qui cum soluta. Vero aut rerum vel. Rerum quos laboriosam placeat ex qui. Sint qui facilis et.",
+              "reply": ""
+            },
+            {
+              "user": "João Neto",
+              "date": "January 1, 2020",
+              "comment": "Ipsam tempora sequi voluptatem quis sapiente non. Autem itaque eveniet saepe. Officiis illo ut beatae.",
+              "reply": {
+                "user": "Maria Clara",
+                "date": "January 1, 2020",
+                "comment": "Enim ipsa eum fugiat fuga repellat. Commodi quo quo dicta. Est ullam aspernatur ut vitae quia mollitia id non. Qui ad quas nostrum rerum sed necessitatibus aut est. Eum officiis sed repellat maxime vero nisi natus. Amet nesciunt nesciunt qui illum omnis est et dolor recusandae. Recusandae sit ad aut impedit et. Ipsa labore dolor impedit et natus in porro aut. Magnam qui cum. Illo similique occaecati nihil modi eligendi. Pariatur distinctio labore omnis incidunt et illum. Expedita et dignissimos distinctio laborum minima fugiat. Libero corporis qui. Nam illo odio beatae enim ducimus. Harum reiciendis error dolorum non autem quisquam vero rerum neque.",
+                "reply": {
+                  "user": "Amanda Javier",
+                  "date": "January 1, 2020",
+                  "comment": "Et dignissimos impedit nulla et quo distinctio ex nemo. Omnis quia dolores cupiditate et. Ut unde qui eligendi sapiente omnis ullam. Placeat porro est commodi est officiis voluptas repellat quisquam possimus. Perferendis id consectetur necessitatibus.",
+                  "reply": ""
+                }
+              }
+            },
+            {
+              "user": "David Silva",
+              "date": "January 1, 2020",
+              "comment": "Distinctio nesciunt rerum reprehenderit sed. Iste omnis eius repellendus quia nihil ut accusantium tempore. Nesciunt expedita id dolor exercitationem aspernatur aut quam ut. Voluptatem est accusamus iste at. Non aut et et esse qui sit modi neque. Exercitationem et eos aspernatur. Ea est consequuntur officia beatae ea aut eos soluta. Non qui dolorum voluptatibus et optio veniam. Quam officia sit nostrum dolorem.",
+              "reply": ""
+            },
+            {
+              "user": "Alisson José",
+              "date": "January 1, 2020",
+              "comment": "Dolorem atque aut. Omnis doloremque blanditiis quia eum porro quis ut velit tempore. Cumque sed quia ut maxime. Est ad aut cum. Ut exercitationem non in fugiat.",
+              "reply": ""
+            }
+          ]
+        },
+        {
+          "title": "The Importance of IDEs in Programming",
+          "author": "Jean Jaques",
+          "status": "Itaque quidem optio quia voluptatibus dolorem dolor. Modi eum sed possimus accusantium. Quas repellat voluptatem officia numquam sint aspernatur voluptas. Esse et accusantium ut unde voluptas.",
+
+          "date": "Wednesday, January 1, 2020",
+          "description": "Aut iste neque ut illum qui perspiciatis similique recusandae non. Fugit autem dolorem labore omnis et. Eum temporibus fugiat voluptate enim tenetur sunt omnis. Doloremque est saepe laborum aut. Ipsa cupiditate ex harum at recusandae nesciunt. Ut dolores velit.",
+          "paragraph_1": "Similique neque nam consequuntur ad non maxime aliquam quas. Quibusdam animi praesentium. Aliquam et laboriosam eius aut nostrum quidem aliquid dicta. Et eveniet enim. Qui velit est ea dolorem doloremque deleniti aperiam unde soluta. Est cum et quod quos aut ut et sit sunt. Voluptate porro consequatur assumenda perferendis dolore.",
+          "paragraph_2": "Sit repellat hic cupiditate hic ut nemo. Quis nihil sunt non reiciendis. Sequi in accusamus harum vel aspernatur. Excepturi numquam nihil cumque odio. Et voluptate cupiditate.",
+          "quote": "Et vero doloremque tempore voluptatem ratione vel aut. Deleniti sunt animi aut. Aut eos aliquam doloribus minus autem quos.",
+          "paragraph_3": "Sed quo laboriosam qui architecto. Occaecati repellendus omnis dicta inventore tempore provident voluptas mollitia aliquid. Id repellendus quia. Asperiores nihil magni dicta est suscipit perspiciatis. Voluptate ex rerum assumenda dolores nihil quaerat. Dolor porro tempora et quibusdam voluptas. Beatae aut at ad qui tempore corrupti velit quisquam rerum. Omnis dolorum exercitationem harum qui qui blanditiis neque. Iusto autem itaque. Repudiandae hic quae aspernatur ea neque qui. Architecto voluptatem magni. Vel magnam quod et tempora deleniti error rerum nihil tempora.",
+          "subtitle_1": "Et quae iure vel ut odit alias.",
+          "paragraph_4": "Officiis animi maxime nulla quo et harum eum quis a. Sit hic in qui quos fugit ut rerum atque. Optio provident dolores atque voluptatem rem excepturi molestiae qui. Voluptatem laborum omnis ullam quibusdam perspiciatis nulla nostrum. Voluptatum est libero eum nesciunt aliquid qui. Quia et suscipit non sequi. Maxime sed odit. Beatae nesciunt nesciunt accusamus quia aut ratione aspernatur dolor. Sint harum eveniet dicta exercitationem minima. Exercitationem omnis asperiores natus aperiam dolor consequatur id ex sed. Quibusdam rerum dolores sint consequatur quidem ea. Beatae minima sunt libero soluta sapiente in rem assumenda. Et qui odit voluptatem. Cum quibusdam voluptatem voluptatem accusamus mollitia aut atque aut.",
+          "subtitle_2": "Ut repellat blanditiis est dolore sunt dolorum quae.",
+          "paragraph_5": "Rerum ea est assumenda pariatur quasi et quam. Facilis nam porro amet nostrum. In assumenda quia quae a id praesentium. Quos deleniti libero sed occaecati aut porro autem. Consectetur sed excepturi sint non placeat quia repellat incidunt labore. Autem facilis hic dolorum dolores vel. Consectetur quasi id et optio praesentium aut asperiores eaque aut. Explicabo omnis quibusdam esse. Ex libero illum iusto totam et ut aut blanditiis. Veritatis numquam ut illum ut a quam vitae.",
+          "paragraph_6": "Alias quia non aliquid. Eos et ea velit. Voluptatem maxime enim omnis ipsa voluptas incidunt. Nulla sit eaque mollitia nisi asperiores est veniam.",
+          "tags": ["Mobile", "Design", "Tips", "Marketing"],
+          "all_comments": [
+            {
+              "user": "Ana Carolina",
+              "date": "January 1, 2020",
+              "comment": "Et rerum totam nisi. Molestiae vel quam dolorum vel voluptatem et et. Est ad aut sapiente quis molestiae est qui cum soluta. Vero aut rerum vel. Rerum quos laboriosam placeat ex qui. Sint qui facilis et.",
+              "reply": ""
+            },
+            {
+              "user": "João Neto",
+              "date": "January 1, 2020",
+              "comment": "Ipsam tempora sequi voluptatem quis sapiente non. Autem itaque eveniet saepe. Officiis illo ut beatae.",
+              "reply": {
+                "user": "Maria Clara",
+                "date": "January 1, 2020",
+                "comment": "Enim ipsa eum fugiat fuga repellat. Commodi quo quo dicta. Est ullam aspernatur ut vitae quia mollitia id non. Qui ad quas nostrum rerum sed necessitatibus aut est. Eum officiis sed repellat maxime vero nisi natus. Amet nesciunt nesciunt qui illum omnis est et dolor recusandae. Recusandae sit ad aut impedit et. Ipsa labore dolor impedit et natus in porro aut. Magnam qui cum. Illo similique occaecati nihil modi eligendi. Pariatur distinctio labore omnis incidunt et illum. Expedita et dignissimos distinctio laborum minima fugiat. Libero corporis qui. Nam illo odio beatae enim ducimus. Harum reiciendis error dolorum non autem quisquam vero rerum neque.",
+                "reply": {
+                  "user": "Amanda Javier",
+                  "date": "January 1, 2020",
+                  "comment": "Et dignissimos impedit nulla et quo distinctio ex nemo. Omnis quia dolores cupiditate et. Ut unde qui eligendi sapiente omnis ullam. Placeat porro est commodi est officiis voluptas repellat quisquam possimus. Perferendis id consectetur necessitatibus.",
+                  "reply": ""
+                }
+              }
+            },
+            {
+              "user": "David Silva",
+              "date": "January 1, 2020",
+              "comment": "Distinctio nesciunt rerum reprehenderit sed. Iste omnis eius repellendus quia nihil ut accusantium tempore. Nesciunt expedita id dolor exercitationem aspernatur aut quam ut. Voluptatem est accusamus iste at. Non aut et et esse qui sit modi neque. Exercitationem et eos aspernatur. Ea est consequuntur officia beatae ea aut eos soluta. Non qui dolorum voluptatibus et optio veniam. Quam officia sit nostrum dolorem.",
+              "reply": ""
+            },
+            {
+              "user": "Alisson José",
+              "date": "January 1, 2020",
+              "comment": "Dolorem atque aut. Omnis doloremque blanditiis quia eum porro quis ut velit tempore. Cumque sed quia ut maxime. Est ad aut cum. Ut exercitationem non in fugiat.",
+              "reply": ""
+            }
+          ]
+        }
+      ],
+      "comments": "Comments",
+      "read_more": "Read More",
+      "search": "Search",
+      "categories": "Categories",
+      "all_categories": [
+        "Tips",
+        "AI",
+        "Automation",
+        "Design",
+        "Web",
+        "Computer Graphics"
+      ],
+      "recent_posts": "Recent Posts",
+      "all_recent_posts": [
+        {
+          "title": "Post 1",
+          "date": "January 1, 2020"
+        },
+        {
+          "title": "Post 2",
+          "date": "January 1, 2020"
+        },
+        {
+          "title": "Post 3",
+          "date": "January 1, 2020"
+        },
+        {
+          "title": "Post 4",
+          "date": "January 1, 2020"
+        },
+        {
+          "title": "Post 5",
+          "date": "January 1, 2020"
+        }
+      ],
+      "tags": "Tags",
+      "all_tags": [
+        "App",
+        "IT",
+        "Business",
+        "Mac",
+        "Design",
+        "Homework",
+        "Mobile",
+        "AI",
+        "Automation",
+        "Tips",
+        "Marketing"
+      ],
+      "reply": "Reply",
+      "leave_a_reply": "Leave a Reply",
+      "disclaimer": "Your email address will not be published. Required fields are marked with *",
+      "name": "Your Name*",
+      "email": "Your Email*",
+      "website": "Your Website",
+      "comment": "Your Comment*",
+      "submit": "Submit Comment"
+    },
+
+    "page_titles": {
+      "homepage": "Tech Museum - INTEGRATECH",
+      "blog": "Blog - INTEGRATECH",
+      "testimonials": "Testimonials - Tech Museum - INTEGRATECH",
+      "team": "Members - Tech Museum - INTEGRATECH",
+      "member_login": "Member Login - INTEGRATECH",
+      "user_login": "User Login - INTEGRATECH",
+      "gallery": "Portfolio - Tech Museum - INTEGRATECH",
+      "four_devs": "4Devs - Tech Museum - INTEGRATECH",
+      "error": "Erro!"
+    }
+  }
+}

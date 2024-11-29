@@ -51,8 +51,6 @@
 <ul>
 <li><a href="https://www.linkedin.com/in/amadeusferro/" target="_blank">Amadeus Ferro</a></li>
 <li><a href="https://www.linkedin.com/in/jo%C3%A3o-lima-8b5122220/" target="_blank">João Victor Guidi</a></li>
-<li><a href="https://www.linkedin.com/in/utheuz-ribeiro/" target="_blank">Matheus Ribeiro</a></li>
-<li><a href="https://www.linkedin.com/in/thalles-eduardo-7297a6237/" target="_blank">Thalles Eduardo</a></li>
 </ul>
 
 <p>📜Translation:</p>

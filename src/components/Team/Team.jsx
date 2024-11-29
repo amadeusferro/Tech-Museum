@@ -83,60 +83,6 @@ const Team = () => {
               </div>
             </div>
 
-            <div className="col-lg-3 col-md-6 d-flex align-items-stretch eachMember">
-              <div className="member" data-aos="fade-up" data-aos-delay="300">
-                <div className="member-img">
-                  <img src={matheus} className="img-fluid" alt="" />
-                  <div className="social">
-                    <a href="" target="blank">
-                      <i className="bi bi-github"></i>
-                    </a>
-                    <a href="https://www.instagram.com/utheuz_/" target="blank">
-                      <i className="bi bi-instagram"></i>
-                    </a>
-                    <a
-                      href="https://www.linkedin.com/in/utheuz-ribeiro/"
-                      target="blank"
-                    >
-                      <i className="bi bi-linkedin"></i>
-                    </a>
-                  </div>
-                </div>
-                <div className="member-info">
-                  <h4>{t("team.members.matheus_ribeiro.name")}</h4>
-                  <span>{t("team.members.matheus_ribeiro.position")}</span>
-                </div>
-              </div>
-            </div>
-
-            <div className="col-lg-3 col-md-6 d-flex align-items-stretch eachMember">
-              <div className="member" data-aos="fade-up" data-aos-delay="400">
-                <div className="member-img">
-                  <img src={thalles} className="img-fluid" alt="" />
-                  <div className="social">
-                    <a href="https://github.com/Thalles-Eduardo" target="blank">
-                      <i className="bi bi-github"></i>
-                    </a>
-                    <a
-                      href="https://www.instagram.com/zzthalleszz/"
-                      target="blank"
-                    >
-                      <i className="bi bi-instagram"></i>
-                    </a>
-                    <a
-                      href="https://www.linkedin.com/in/thalles-eduardo-7297a6237/"
-                      target="blank"
-                    >
-                      <i className="bi bi-linkedin"></i>
-                    </a>
-                  </div>
-                </div>
-                <div className="member-info">
-                  <h4>{t("team.members.thalles_eduardo.name")}</h4>
-                  <span>{t("team.members.thalles_eduardo.position")}</span>
-                </div>
-              </div>
-            </div>
           </div>
         </div>
       </section>

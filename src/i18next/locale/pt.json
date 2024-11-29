@@ -24,15 +24,13 @@
       "developed_by": "Desenvolvido por",
       "members": {
         "amadeus_ferro": "Amadeus Ferro",
-        "joao_victor_guidi": "João Victor Guidi",
-        "matheus_ribeiro": "Matheus Ribeiro",
-        "thalles_eduardo": "Thalles Eduardo"
+        "joao_victor_guidi": "João Victor Guidi"
       },
       "translated_by": "Traduzido por"
     },
 
     "hero": {
-      "headline": "Descubra o Passado, Inspire o Futuro da Tecnología!",
+      "headline": "Descubra o Passado, Inspire o Futuro da Tecnologia!",
       "paragraph": "Explore o fascinante museu de tecnologia conosco e reviva memórias inesquecíveis!",
       "button": "Descobrir"
     },

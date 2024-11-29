@@ -37,19 +37,6 @@ function Footer() {
                   {t("footer.members.joao_victor_guidi")}
                 </a>
                 、{" "}
-                <a
-                  href="https://www.linkedin.com/in/utheuz-ribeiro/"
-                  target="blank"
-                >
-                  {t("footer.members.matheus_ribeiro")}
-                </a>
-                、{" "}
-                <a
-                  href="https://www.linkedin.com/in/thalles-eduardo-7297a6237/"
-                  target="blank"
-                >
-                  {t("footer.members.thalles_eduardo")}
-                </a>
                 {t("footer.developed_by")} <br />
                 <a href="https://www.linkedin.com/in/amadeusferro/">
                   {t("footer.members.amadeus_ferro")}
@@ -71,20 +58,6 @@ function Footer() {
                   target="blank"
                 >
                   {t("footer.members.joao_victor_guidi")}
-                </a>
-                ,{" "}
-                <a
-                  href="https://www.linkedin.com/in/utheuz-ribeiro/"
-                  target="blank"
-                >
-                  {t("footer.members.matheus_ribeiro")}
-                </a>
-                ,{" "}
-                <a
-                  href="https://www.linkedin.com/in/thalles-eduardo-7297a6237/"
-                  target="blank"
-                >
-                  {t("footer.members.thalles_eduardo")}
                 </a>
                 <br />
                 {t("footer.translated_by")}{" "}
